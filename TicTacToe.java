@@ -1,5 +1,4 @@
 /*
- // Course: CS123
 // Author:Preston Porter
 
 // Purpose: Tic Tac Toe
