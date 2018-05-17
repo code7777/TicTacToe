@@ -5,7 +5,7 @@
 // Name:TicTacToe
 */
 import java.util.*;
-public class TicTacToe2619
+public class TicTacToe
 {
  
        
@@ -98,7 +98,7 @@ public class TicTacToe2619
   
   public static void main( String[]  args)
    {
-    TicTacToe2619 game1 =new TicTacToe2619();
+    TicTacToe game1 =new TicTacToe();
     
     do{
        if(game1.getEntryCount()%2==0)
